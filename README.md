@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adzashel
 - 👀 I’m interested in Web Development, Artificial Intelegence 
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning NodeJs
 - 📫 You can reach me on my Insta account
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really like Coffee
